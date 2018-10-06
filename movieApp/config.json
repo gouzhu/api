@@ -8,14 +8,17 @@
     "ads": [
         {
             "name": "ad1",
+            "transferUrl": "ad2",
             "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDq0JMrM9n26vJelV7doAI9xmAlopDM8icwU6BhdDc-yNIWmCK0w"
         },
         {
             "name": "ad2",
+            "transferUrl": "ad2",
             "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDq0JMrM9n26vJelV7doAI9xmAlopDM8icwU6BhdDc-yNIWmCK0w"
         },
         {
             "name": "ad3",
+            "transferUrl": "ad2",
             "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDq0JMrM9n26vJelV7doAI9xmAlopDM8icwU6BhdDc-yNIWmCK0w"
         }
     ],
