@@ -2,6 +2,7 @@
     "version": 100,
     "channelUrl": "http://api.wlzhan.com/sudu/?url=",
     "downloadUrl": "http://api.wlzhan.com/sudu/?url=",
+    "splashImageUrl": "http://api.wlzhan.com/sudu/?url=",
     "isForceUpdate": false,
     "isAdult": false,
     "isVip": false,
