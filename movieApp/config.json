@@ -26,5 +26,22 @@
    "notify": [
     "哈哈哈哈哈是的ds",
     "试试大是大非sdsd"
-  ]
+  ],
+     "dailyRecommend": [
+        {
+            "name": "精选视频1",
+            "playUrl": "https://github.com/",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDq0JMrM9n26vJelV7doAI9xmAlopDM8icwU6BhdDc-yNIWmCK0w"
+        },
+        {
+            "name": "精选视频2",
+            "playUrl": "https://www.google.com",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDq0JMrM9n26vJelV7doAI9xmAlopDM8icwU6BhdDc-yNIWmCK0w"
+        },
+        {
+            "name": "精选视频3",
+            "playUrl": "https://github.com/",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDq0JMrM9n26vJelV7doAI9xmAlopDM8icwU6BhdDc-yNIWmCK0w"
+        }
+    ]
 }
