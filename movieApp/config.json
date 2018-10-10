@@ -1,7 +1,7 @@
 ﻿{
     "version": 101,
     "channelUrl": "http://api.wlzhan.com/sudu/?url=",
-    "downloadUrl": "http://api.wlzhan.com/sudu/?url=",
+    "downloadUrl": "https://github.com/itiscoming/apps/blob/master/%E7%81%AD%E9%9C%B8vpn.apk?raw=true",
     "updateContent": "增加了xxx，修复了xxx",
     "splashImageUrl": "http://api.wlzhan.com/sudu/?url=",
     "isForceUpdate": true,
