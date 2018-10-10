@@ -2,6 +2,7 @@
     "version": 101,
     "channelUrl": "http://api.wlzhan.com/sudu/?url=",
     "downloadUrl": "http://api.wlzhan.com/sudu/?url=",
+    "updateContent": "增加了xxx，修复了xxx",
     "splashImageUrl": "http://api.wlzhan.com/sudu/?url=",
     "isForceUpdate": true,
     "isAdult": false,
