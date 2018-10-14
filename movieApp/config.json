@@ -1,11 +1,11 @@
 ﻿{
-    "version": 100,
+    "version": 101,
     "channelUrl": "http://api.wlzhan.com/sudu/?url=",
     "sexUrl": "http://ddav86.com",
     "downloadUrl": "https://github.com/itiscoming/apps/blob/master/%E6%B0%B4%E6%AF%8D%E5%BD%B1%E8%A7%86.apk?raw=true",
     "updateContent": "增加了xxx，修复了xxx",
     "splashImageUrl": "http://api.wlzhan.com/sudu/?url=",
-    "isForceUpdate": false,
+    "isForceUpdate": true,
     "isAdult": false,
     "isVip": false,
     "ads": [
