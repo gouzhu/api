@@ -11,18 +11,18 @@
     "ads": [
         {
             "name": "ad1",
-            "transferUrl": "https://github.com/",
-            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDq0JMrM9n26vJelV7doAI9xmAlopDM8icwU6BhdDc-yNIWmCK0w"
+            "transferUrl": "https://github.com/itiscoming/apps",
+            "imageUrl": "https://ss3.baidu.com/-fo3dSag_xI4khGko9WTAnF6hhy/image/h%3D300/sign=2fa615826181800a71e58f0e813433d6/d50735fae6cd7b8960afd68e022442a7d8330ef8.jpg"
         },
         {
             "name": "ad2",
-            "transferUrl": "https://www.google.com",
-            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDq0JMrM9n26vJelV7doAI9xmAlopDM8icwU6BhdDc-yNIWmCK0w"
+            "transferUrl": "https://github.com/itiscoming/apps",
+            "imageUrl": "http://img1.imgtn.bdimg.com/it/u=508214869,280178022&fm=26&gp=0.jpg"
         },
         {
             "name": "ad3",
-            "transferUrl": "https://github.com/",
-            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDq0JMrM9n26vJelV7doAI9xmAlopDM8icwU6BhdDc-yNIWmCK0w"
+            "transferUrl": "https://github.com/itiscoming/apps",
+            "imageUrl": "http://img3.imgtn.bdimg.com/it/u=2423360747,71433604&fm=26&gp=0.jpg"
         }
     ],
    "notify": [
